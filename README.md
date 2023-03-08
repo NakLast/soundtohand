@@ -5,13 +5,13 @@
 
 **The main object development website**
 > Create web by reactJS
-```
+```js
 npx create-react-app soundtohand
 cd soundtohand
 npm start
 ```
 > And use materialUI(MUI) design this web
-```
+```js
 npm install @mui/material @emotion/react @emotion/styled
 ```
 
