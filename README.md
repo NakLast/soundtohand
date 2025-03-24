@@ -1,18 +1,24 @@
-## Sound to hand
+# Sound to hand
 **This project create by**
 > 1. Tammsorn nackwoung
 > 2. Tanakorn Aphiwanpakdee
 
-**The main object development website**
-> Create web by reactJS
-```js
+## Installation
+1. **Git clone repository**
+```sh
 npx create-react-app soundtohand
 cd soundtohand
 npm start
 ```
-> And use materialUI(MUI) design this web
-```js
-npm install @mui/material @emotion/react @emotion/styled
+
+2. **Install dependencies**
+```sh
+npm install
+```
+
+3. **Run the server**
+```sh
+npm start
 ```
 
 **The main object development soundtohand**
